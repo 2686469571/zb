@@ -1,0 +1,12 @@
+D:\81C#\联系\ConsoleApplication2\class\bin\Debug\@class.exe.config
+D:\81C#\联系\ConsoleApplication2\class\bin\Debug\@class.exe
+D:\81C#\联系\ConsoleApplication2\class\bin\Debug\@class.pdb
+D:\81C#\联系\ConsoleApplication2\class\bin\Debug\ConsoleApplication2.exe
+D:\81C#\联系\ConsoleApplication2\class\bin\Debug\EntityFramework.dll
+D:\81C#\联系\ConsoleApplication2\class\bin\Debug\EntityFramework.SqlServer.dll
+D:\81C#\联系\ConsoleApplication2\class\bin\Debug\ConsoleApplication2.pdb
+D:\81C#\联系\ConsoleApplication2\class\bin\Debug\EntityFramework.xml
+D:\81C#\联系\ConsoleApplication2\class\bin\Debug\EntityFramework.SqlServer.xml
+D:\81C#\联系\ConsoleApplication2\class\obj\Debug\classs.csprojResolveAssemblyReference.cache
+D:\81C#\联系\ConsoleApplication2\class\obj\Debug\@class.exe
+D:\81C#\联系\ConsoleApplication2\class\obj\Debug\@class.pdb

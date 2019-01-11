@@ -1,0 +1,10 @@
+D:\C#\ConsoleApplication2\class\obj\Debug\class.csprojResolveAssemblyReference.cache
+D:\C#\ConsoleApplication2\class\bin\Debug\@class.exe.config
+D:\C#\ConsoleApplication2\class\bin\Debug\@class.exe
+D:\C#\ConsoleApplication2\class\bin\Debug\@class.pdb
+D:\C#\ConsoleApplication2\class\bin\Debug\EntityFramework.dll
+D:\C#\ConsoleApplication2\class\bin\Debug\EntityFramework.SqlServer.dll
+D:\C#\ConsoleApplication2\class\bin\Debug\EntityFramework.xml
+D:\C#\ConsoleApplication2\class\bin\Debug\EntityFramework.SqlServer.xml
+D:\C#\ConsoleApplication2\class\obj\Debug\@class.exe
+D:\C#\ConsoleApplication2\class\obj\Debug\@class.pdb
